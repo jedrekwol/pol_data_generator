@@ -1,0 +1,962 @@
+voivodeship,city,county,population
+dolnośląskie,Bardo,Ząbkowicki,2416.0
+dolnośląskie,Bielawa,Dzierżoniowski,28688.0
+dolnośląskie,Bierutów,Oleśnicki,4553.0
+dolnośląskie,Bogatynia,Zgorzelecki,16460.0
+dolnośląskie,Boguszów-Gorce,Wałbrzyski,14535.0
+dolnośląskie,Bolesławiec,Bolesławiecki,37522.0
+dolnośląskie,Bolków,Jaworski,4670.0
+dolnośląskie,Brzeg Dolny,Wołowski,12695.0
+dolnośląskie,Bystrzyca Kłodzka,Kłodzki,9335.0
+dolnośląskie,Chocianów,Polkowicki,7519.0
+dolnośląskie,Chojnów,Legnicki,12619.0
+dolnośląskie,Duszniki-Zdrój,Kłodzki,4178.0
+dolnośląskie,Dzierżoniów,Dzierżoniowski,31478.0
+dolnośląskie,Głogów,Głogowski,63730.0
+dolnośląskie,Głuszyca,Wałbrzyski,5999.0
+dolnośląskie,Góra,Górowski,11036.0
+dolnośląskie,Gryfów Śląski,Lwówecki,6302.0
+dolnośląskie,Jawor,Jaworski,21264.0
+dolnośląskie,Jaworzyna Śląska,Świdnicki,5066.0
+dolnośląskie,Jedlina-Zdrój,Wałbrzyski,4766.0
+dolnośląskie,Jelcz-Laskowice,Oławski,15234.0
+dolnośląskie,Jelenia Góra,Jelenia Góra,76570.0
+dolnośląskie,Kamieniec Ząbkowicki,Ząbkowicki,4403.0
+dolnośląskie,Kamienna Góra,Kamiennogórski,17724.0
+dolnośląskie,Karpacz,Karkonoski,4358.0
+dolnośląskie,Kąty Wrocławskie,Wrocławski,7220.0
+dolnośląskie,Kłodzko,Kłodzki,25442.0
+dolnośląskie,Kowary,Karkonoski,10139.0
+dolnośląskie,Kudowa-Zdrój,Kłodzki,9509.0
+dolnośląskie,Lądek-Zdrój,Kłodzki,5115.0
+dolnośląskie,Legnica,Legnica,93988.0
+dolnośląskie,Leśna,Lubański,4135.0
+dolnośląskie,Lubań,Lubański,19964.0
+dolnośląskie,Lubawka,Kamiennogórski,5652.0
+dolnośląskie,Lubin,Lubiński,69267.0
+dolnośląskie,Lubomierz,Lwówecki,1756.0
+dolnośląskie,Lwówek Śląski,Lwówecki,8346.0
+dolnośląskie,Mieroszów,Wałbrzyski,3815.0
+dolnośląskie,Międzybórz,Oleśnicki,2362.0
+dolnośląskie,Międzylesie,Kłodzki,2448.0
+dolnośląskie,Milicz,Milicki,10977.0
+dolnośląskie,Mirsk,Lwówecki,3703.0
+dolnośląskie,Niemcza,Dzierżoniowski,2752.0
+dolnośląskie,Nowa Ruda,Kłodzki,21018.0
+dolnośląskie,Nowogrodziec,Bolesławiecki,4120.0
+dolnośląskie,Oborniki Śląskie,Trzebnicki,9050.0
+dolnośląskie,Oleśnica,Oleśnicki,35640.0
+dolnośląskie,Olszyna,Lubański,4345.0
+dolnośląskie,Oława,Oławski,33201.0
+dolnośląskie,Piechowice,Karkonoski,5886.0
+dolnośląskie,Pieńsk,Zgorzelecki,5578.0
+dolnośląskie,Pieszyce,Dzierżoniowski,6876.0
+dolnośląskie,Piława Górna,Dzierżoniowski,6059.0
+dolnośląskie,Polanica-Zdrój,Kłodzki,6141.0
+dolnośląskie,Polkowice,Polkowicki,21630.0
+dolnośląskie,Prochowice,Legnicki,3536.0
+dolnośląskie,Prusice,Trzebnicki,2195.0
+dolnośląskie,Przemków,Polkowicki,5744.0
+dolnośląskie,Radków,Kłodzki,2302.0
+dolnośląskie,Siechnice,Wrocławski,10310.0
+dolnośląskie,Sobótka,Wrocławski,7005.0
+dolnośląskie,Stronie Śląskie,Kłodzki,5089.0
+dolnośląskie,Strzegom,Świdnicki,15225.0
+dolnośląskie,Strzelin,Strzeliński,12091.0
+dolnośląskie,Syców,Oleśnicki,10003.0
+dolnośląskie,Szczawno-Zdrój,Wałbrzyski,5257.0
+dolnośląskie,Szczytna,Kłodzki,4864.0
+dolnośląskie,Szklarska Poręba,Karkonoski,5873.0
+dolnośląskie,Ścinawa,Lubiński,5349.0
+dolnośląskie,Środa Śląska,Średzki,9549.0
+dolnośląskie,Świdnica,Świdnicki,54192.0
+dolnośląskie,Świebodzice,Świdnicki,22110.0
+dolnośląskie,Świeradów-Zdrój,Lubański,4080.0
+dolnośląskie,Świerzawa,Złotoryjski,2071.0
+dolnośląskie,Trzebnica,Trzebnicki,13696.0
+dolnośląskie,Twardogóra,Oleśnicki,6315.0
+dolnośląskie,Wałbrzych,Wałbrzych,103263.0
+dolnośląskie,Wąsosz,Górowski,2582.0
+dolnośląskie,Węgliniec,Zgorzelecki,2682.0
+dolnośląskie,Wiązów,Strzeliński,2293.0
+dolnośląskie,Wleń,Lwówecki,1606.0
+dolnośląskie,Wojcieszów,Złotoryjski,3512.0
+dolnośląskie,Wołów,Wołowski,12190.0
+dolnośląskie,Wrocław,Wrocław,674312.0
+dolnośląskie,Zawidów,Zgorzelecki,3883.0
+dolnośląskie,Ząbkowice Śląskie,Ząbkowicki,14495.0
+dolnośląskie,Zgorzelec,Zgorzelecki,29542.0
+dolnośląskie,Ziębice,Ząbkowicki,8070.0
+dolnośląskie,Złotoryja,Złotoryjski,14488.0
+dolnośląskie,Złoty Stok,Ząbkowicki,2549.0
+dolnośląskie,Żarów,Świdnicki,6551.0
+dolnośląskie,Żmigród,Trzebnicki,6264.0
+kujawsko-pomorskie,Aleksandrów Kujawski,Aleksandrowski,11627.0
+kujawsko-pomorskie,Barcin,Żniński,7142.0
+kujawsko-pomorskie,Brodnica,Brodnicki,28715.0
+kujawsko-pomorskie,Brześć Kujawski,Włocławski,4529.0
+kujawsko-pomorskie,Bydgoszcz,Bydgoszcz,334026.0
+kujawsko-pomorskie,Chełmno,Chełmiński,18617.0
+kujawsko-pomorskie,Chełmża,Toruński,13906.0
+kujawsko-pomorskie,Chodecz,Włocławski,1770.0
+kujawsko-pomorskie,Ciechocinek,Aleksandrowski,10349.0
+kujawsko-pomorskie,Dobrzyń nad Wisłą,Lipnowski,2007.0
+kujawsko-pomorskie,Gniewkowo,Inowrocławski,6825.0
+kujawsko-pomorskie,Golub-Dobrzyń,Golubsko-Dobrzyński,11577.0
+kujawsko-pomorskie,Górzno,Brodnicki,1385.0
+kujawsko-pomorskie,Grudziądz,Grudziądz,90275.0
+kujawsko-pomorskie,Inowrocław,Inowrocławski,68906.0
+kujawsko-pomorskie,Izbica Kujawska,Włocławski,2507.0
+kujawsko-pomorskie,Jabłonowo Pomorskie,Brodnicki,3676.0
+kujawsko-pomorskie,Janikowo,Inowrocławski,8291.0
+kujawsko-pomorskie,Janowiec Wielkopolski,Żniński,3788.0
+kujawsko-pomorskie,Kamień Krajeński,Sępoleński,2365.0
+kujawsko-pomorskie,Kcynia,Nakielski,4304.0
+kujawsko-pomorskie,Koronowo,Bydgoski,10864.0
+kujawsko-pomorskie,Kowal,Włocławski,3365.0
+kujawsko-pomorskie,Kowalewo Pomorskie,Golubsko-Dobrzyński,4059.0
+kujawsko-pomorskie,Kruszwica,Inowrocławski,9232.0
+kujawsko-pomorskie,Lipno,Lipnowski,13621.0
+kujawsko-pomorskie,Lubień Kujawski,Włocławski,1350.0
+kujawsko-pomorskie,Lubraniec,Włocławski,2778.0
+kujawsko-pomorskie,Łabiszyn,Żniński,4480.0
+kujawsko-pomorskie,Łasin,Grudziądzki,3150.0
+kujawsko-pomorskie,Mogilno,Mogileński,11276.0
+kujawsko-pomorskie,Mrocza,Nakielski,4183.0
+kujawsko-pomorskie,Nakło nad Notecią,Nakielski,17479.0
+kujawsko-pomorskie,Nieszawa,Aleksandrowski,1762.0
+kujawsko-pomorskie,Nowe,Świecki,5519.0
+kujawsko-pomorskie,Pakość,Inowrocławski,5253.0
+kujawsko-pomorskie,Piotrków Kujawski,Radziejowski,4275.0
+kujawsko-pomorskie,Pruszcz,Świecki,2710.0
+kujawsko-pomorskie,Radziejów,Radziejowski,5198.0
+kujawsko-pomorskie,Radzyń Chełmiński,Grudziądzki,1811.0
+kujawsko-pomorskie,Rypin,Rypiński,15697.0
+kujawsko-pomorskie,Sępólno Krajeńskie,Sępoleński,8892.0
+kujawsko-pomorskie,Skępe,Lipnowski,3455.0
+kujawsko-pomorskie,Solec Kujawski,Bydgoski,15432.0
+kujawsko-pomorskie,Strzelno,Mogileński,5341.0
+kujawsko-pomorskie,Szubin,Nakielski,9506.0
+kujawsko-pomorskie,Świecie,Świecki,25209.0
+kujawsko-pomorskie,Toruń,Toruń,197112.0
+kujawsko-pomorskie,Tuchola,Tucholski,13351.0
+kujawsko-pomorskie,Wąbrzeźno,Wąbrzeski,13220.0
+kujawsko-pomorskie,Więcbork,Sępoleński,5787.0
+kujawsko-pomorskie,Włocławek,Włocławek,103535.0
+kujawsko-pomorskie,Żnin,Żniński,13349.0
+lubelskie,Annopol,Kraśnicki,2343.0
+lubelskie,Bełżyce,Lubelski,6067.0
+lubelskie,Biała Podlaska,Biała Podlaska,55100.0
+lubelskie,Biłgoraj,Biłgorajski,25268.0
+lubelskie,Bychawa,Lubelski,4641.0
+lubelskie,Chełm,Chełm,58805.0
+lubelskie,Dęblin,Rycki,14504.0
+lubelskie,Frampol,Biłgorajski,1362.0
+lubelskie,Goraj,Biłgorajski,881.0
+lubelskie,Hrubieszów,Hrubieszowski,16563.0
+lubelskie,Izbica,Krasnostawski,1739.0
+lubelskie,Janów Lubelski,Janowski,11192.0
+lubelskie,Józefów,Biłgorajski,2368.0
+lubelskie,Józefów nad Wisłą,Opolski,825.0
+lubelskie,Kamionka,Lubartowski,1702.0
+lubelskie,Kazimierz Dolny,Puławski,3243.0
+lubelskie,Kock,Lubartowski,2932.0
+lubelskie,Krasnobród,Zamojski,3011.0
+lubelskie,Krasnystaw,Krasnostawski,17702.0
+lubelskie,Kraśnik,Kraśnicki,32189.0
+lubelskie,Lubartów,Lubartowski,20306.0
+lubelskie,Lublin,Lublin,332852.0
+lubelskie,Lubycza Królewska,Tomaszowski,2187.0
+lubelskie,Łaszczów,Tomaszowski,1987.0
+lubelskie,Łęczna,Łęczyński,18025.0
+lubelskie,Łuków,Łukowski,27719.0
+lubelskie,Międzyrzec Podlaski,Bialski,15685.0
+lubelskie,Modliborzyce,Janowski,1407.0
+lubelskie,Nałęczów,Puławski,3671.0
+lubelskie,Opole Lubelskie,Opolski,8103.0
+lubelskie,Ostrów Lubelski,Lubartowski,2014.0
+lubelskie,Parczew,Parczewski,10402.0
+lubelskie,Piaski,Świdnicki,2458.0
+lubelskie,Poniatowa,Opolski,8440.0
+lubelskie,Puławy,Puławski,44755.0
+lubelskie,Radzyń Podlaski,Radzyński,14620.0
+lubelskie,Rejowiec,Chełmski,1967.0
+lubelskie,Rejowiec Fabryczny,Chełmski,4051.0
+lubelskie,Ryki,Rycki,9200.0
+lubelskie,Siedliszcze,Chełmski,1343.0
+lubelskie,Stoczek Łukowski,Łukowski,2401.0
+lubelskie,Szczebrzeszyn,Zamojski,4827.0
+lubelskie,Świdnik,Świdnicki,37396.0
+lubelskie,Tarnogród,Biłgorajski,3184.0
+lubelskie,Terespol,Bialski,5254.0
+lubelskie,Tomaszów Lubelski,Tomaszowski,18291.0
+lubelskie,Tyszowce,Tomaszowski,1871.0
+lubelskie,Urzędów,Kraśnicki,1690.0
+lubelskie,Włodawa,Włodawski,12364.0
+lubelskie,Zamość,Zamość,59603.0
+lubelskie,Zwierzyniec,Zamojski,2867.0
+lubuskie,Babimost,Zielonogórski,3832.0
+lubuskie,Bytom Odrzański,Nowosolski,4010.0
+lubuskie,Cybinka,Słubicki,2683.0
+lubuskie,Czerwieńsk,Zielonogórski,3874.0
+lubuskie,Dobiegniew,Strzelecko-Drezdenecki,3041.0
+lubuskie,Drezdenko,Strzelecko-Drezdenecki,9683.0
+lubuskie,Gorzów Wielkopolski,Gorzów Wielkopolski,118011.0
+lubuskie,Gozdnica,Żagański,2812.0
+lubuskie,Gubin,Krośnieński,15955.0
+lubuskie,Iłowa,Żagański,3685.0
+lubuskie,Jasień,Żarski,4121.0
+lubuskie,Kargowa,Zielonogórski,3810.0
+lubuskie,Kostrzyn nad Odrą,Gorzowski,17885.0
+lubuskie,Kożuchów,Nowosolski,9038.0
+lubuskie,Krosno Odrzańskie,Krośnieński,10835.0
+lubuskie,Lubniewice,Sulęciński,2000.0
+lubuskie,Lubsko,Żarski,13109.0
+lubuskie,Łęknica,Żarski,2290.0
+lubuskie,Małomice,Żagański,3439.0
+lubuskie,Międzyrzecz,Międzyrzecki,17256.0
+lubuskie,Nowa Sól,Nowosolski,36569.0
+lubuskie,Nowe Miasteczko,Nowosolski,2652.0
+lubuskie,Nowogród Bobrzański,Zielonogórski,4841.0
+lubuskie,Ośno Lubuskie,Słubicki,3906.0
+lubuskie,Rzepin,Słubicki,6447.0
+lubuskie,Skwierzyna,Międzyrzecki,9222.0
+lubuskie,Sława,Wschowski,4145.0
+lubuskie,Słubice,Słubicki,16401.0
+lubuskie,Strzelce Krajeńskie,Strzelecko-Drezdenecki,9868.0
+lubuskie,Sulechów,Zielonogórski,15881.0
+lubuskie,Sulęcin,Sulęciński,9864.0
+lubuskie,Szlichtyngowa,Wschowski,1246.0
+lubuskie,Szprotawa,Żagański,10954.0
+lubuskie,Świebodzin,Świebodziński,21254.0
+lubuskie,Torzym,Sulęciński,2443.0
+lubuskie,Trzciel,Międzyrzecki,2243.0
+lubuskie,Witnica,Gorzowski,6481.0
+lubuskie,Wschowa,Wschowski,13353.0
+lubuskie,Zbąszynek,Świebodziński,4929.0
+lubuskie,Zielona Góra,Zielona Góra,139667.0
+lubuskie,Żagań,Żagański,24130.0
+lubuskie,Żary,Żarski,35673.0
+łódzkie,Aleksandrów Łódzki,Zgierski,22188.0
+łódzkie,Bełchatów,Bełchatowski,53718.0
+łódzkie,Biała Rawska,Rawski,3082.0
+łódzkie,Błaszki,Sieradzki,2044.0
+łódzkie,Bolimów,Skierniewicki,899.0
+łódzkie,Brzeziny,Brzeziński,12099.0
+łódzkie,Drzewica,Opoczyński,3604.0
+łódzkie,Działoszyn,Pajęczański,5384.0
+łódzkie,Głowno,Zgierski,13342.0
+łódzkie,Kamieńsk,Radomszczański,2642.0
+łódzkie,Koluszki,Łódzki Wschodni,12318.0
+łódzkie,Konstantynów Łódzki,Pabianicki,19117.0
+łódzkie,Krośniewice,Kutnowski,4121.0
+łódzkie,Kutno,Kutnowski,41754.0
+łódzkie,Lutomiersk,Pabianicki,1569.0
+łódzkie,Lututów,Wieruszowski,2232.0
+łódzkie,Łask,Łaski,16385.0
+łódzkie,Łęczyca,Łęczycki,13340.0
+łódzkie,Łowicz,Łowicki,26582.0
+łódzkie,Łódź,Łódź,664860.0
+łódzkie,Opoczno,Opoczyński,19540.0
+łódzkie,Ozorków,Zgierski,18488.0
+łódzkie,Pabianice,Pabianicki,62238.0
+łódzkie,Pajęczno,Pajęczański,6473.0
+łódzkie,Piątek,Łęczycki,1604.0
+łódzkie,Piotrków Trybunalski,Piotrków Trybunalski,68270.0
+łódzkie,Poddębice,Poddębicki,6904.0
+łódzkie,Przedbórz,Radomszczański,3288.0
+łódzkie,Radomsko,Radomszczański,43958.0
+łódzkie,Rawa Mazowiecka,Rawski,16249.0
+łódzkie,Rzgów,Łódzki Wschodni,3445.0
+łódzkie,Sieradz,Sieradzki,39641.0
+łódzkie,Skierniewice,Skierniewice,45933.0
+łódzkie,Stryków,Zgierski,3423.0
+łódzkie,Sulejów,Piotrkowski,5995.0
+łódzkie,Szadek,Zduńskowolski,1801.0
+łódzkie,Tomaszów Mazowiecki,Tomaszowski,58796.0
+łódzkie,Tuszyn,Łódzki Wschodni,7179.0
+łódzkie,Uniejów,Poddębicki,2930.0
+łódzkie,Warta,Sieradzki,3021.0
+łódzkie,Wieluń,Wieluński,21118.0
+łódzkie,Wieruszów,Wieruszowski,8480.0
+łódzkie,Wolbórz,Piotrkowski,2263.0
+łódzkie,Zduńska Wola,Zduńskowolski,39434.0
+łódzkie,Zelów,Bełchatowski,7217.0
+łódzkie,Zgierz,Zgierski,54550.0
+łódzkie,Złoczew,Sieradzki,3407.0
+łódzkie,Żychlin,Kutnowski,7743.0
+małopolskie,Alwernia,Chrzanowski,3287.0
+małopolskie,Andrychów,Wadowicki,18981.0
+małopolskie,Biecz,Gorlicki,4384.0
+małopolskie,Bobowa,Gorlicki,3074.0
+małopolskie,Bochnia,Bocheński,28778.0
+małopolskie,Brzesko,Brzeski,16140.0
+małopolskie,Brzeszcze,Oświęcimski,10941.0
+małopolskie,Bukowno,Olkuski,9710.0
+małopolskie,Chełmek,Oświęcimski,8584.0
+małopolskie,Chrzanów,Chrzanowski,34743.0
+małopolskie,Ciężkowice,Tarnowski,2506.0
+małopolskie,Czchów,Brzeski,2329.0
+małopolskie,Dąbrowa Tarnowska,Dąbrowski,11511.0
+małopolskie,Dobczyce,Myślenicki,6239.0
+małopolskie,Gorlice,Gorlicki,26090.0
+małopolskie,Grybów,Nowosądecki,5982.0
+małopolskie,Jordanów,Suski,5392.0
+małopolskie,Kalwaria Zebrzydowska,Wadowicki,4372.0
+małopolskie,Kęty,Oświęcimski,17961.0
+małopolskie,Koszyce,Proszowicki,769.0
+małopolskie,Kraków,Kraków,802583.0
+małopolskie,Krynica-Zdrój,Nowosądecki,9875.0
+małopolskie,Krzeszowice,Krakowski,9827.0
+małopolskie,Libiąż,Chrzanowski,16278.0
+małopolskie,Limanowa,Limanowski,14578.0
+małopolskie,Maków Podhalański,Suski,5604.0
+małopolskie,Miechów,Miechowski,11104.0
+małopolskie,Mszana Dolna,Limanowski,7831.0
+małopolskie,Muszyna,Nowosądecki,4540.0
+małopolskie,Myślenice,Myślenicki,18019.0
+małopolskie,Niepołomice,Wielicki,16035.0
+małopolskie,Nowe Brzesko,Proszowicki,1627.0
+małopolskie,Nowy Sącz,Nowy Sącz,80979.0
+małopolskie,Nowy Targ,Nowotarski,33130.0
+małopolskie,Nowy Wiśnicz,Bocheński,2782.0
+małopolskie,Olkusz,Olkuski,33102.0
+małopolskie,Oświęcim,Oświęcimski,36580.0
+małopolskie,Piwniczna-Zdrój,Nowosądecki,5493.0
+małopolskie,Proszowice,Proszowicki,5886.0
+małopolskie,Rabka-Zdrój,Nowotarski,12418.0
+małopolskie,Radłów,Tarnowski,2671.0
+małopolskie,Ryglice,Tarnowski,2717.0
+małopolskie,Skała,Krakowski,3881.0
+małopolskie,Skawina,Krakowski,24104.0
+małopolskie,Słomniki,Krakowski,4224.0
+małopolskie,Stary Sącz,Nowosądecki,8740.0
+małopolskie,Sucha Beskidzka,Suski,8913.0
+małopolskie,Sułkowice,Myślenicki,6520.0
+małopolskie,Szczawnica,Nowotarski,5388.0
+małopolskie,Szczucin,Dąbrowski,4111.0
+małopolskie,Świątniki Górne,Krakowski,2418.0
+małopolskie,Tarnów,Tarnów,105014.0
+małopolskie,Trzebinia,Chrzanowski,18925.0
+małopolskie,Tuchów,Tarnowski,6283.0
+małopolskie,Wadowice,Wadowicki,17660.0
+małopolskie,Wieliczka,Wielicki,26863.0
+małopolskie,Wojnicz,Tarnowski,3104.0
+małopolskie,Wolbrom,Olkuski,8240.0
+małopolskie,Zakliczyn,Tarnowski,1583.0
+małopolskie,Zakopane,Tatrzański,25562.0
+małopolskie,Zator,Oświęcimski,3607.0
+małopolskie,Żabno,Tarnowski,4161.0
+mazowieckie,Białobrzegi,Białobrzeski,6530.0
+mazowieckie,Bieżuń,Żuromiński,1743.0
+mazowieckie,Błonie,Warszawski Zachodni,12095.0
+mazowieckie,Brok,Ostrowski,1764.0
+mazowieckie,Brwinów,Pruszkowski,14466.0
+mazowieckie,Cegłów,Miński,2279.0
+mazowieckie,Chorzele,Przasnyski,2940.0
+mazowieckie,Ciechanów,Ciechanowski,42449.0
+mazowieckie,Czerwińsk nad Wisłą,Płoński,1014.0
+mazowieckie,Drobin,Płocki,2683.0
+mazowieckie,Garwolin,Garwoliński,17296.0
+mazowieckie,Gąbin,Płocki,4111.0
+mazowieckie,Glinojeck,Ciechanowski,2832.0
+mazowieckie,Gostynin,Gostyniński,17498.0
+mazowieckie,Góra Kalwaria,Piaseczyński,11876.0
+mazowieckie,Grodzisk Mazowiecki,Grodziski,34009.0
+mazowieckie,Grójec,Grójecki,16945.0
+mazowieckie,Halinów,Miński,3755.0
+mazowieckie,Iłża,Radomski,4430.0
+mazowieckie,Jedlnia-Letnisko,Radomski,4041.0
+mazowieckie,Józefów,Otwocki,20998.0
+mazowieckie,Kałuszyn,Miński,2708.0
+mazowieckie,Karczew,Otwocki,9434.0
+mazowieckie,Kobyłka,Wołomiński,27580.0
+mazowieckie,Konstancin-Jeziorna,Piaseczyński,17032.0
+mazowieckie,Kosów Lacki,Sokołowski,1998.0
+mazowieckie,Kozienice,Kozienicki,16009.0
+mazowieckie,Legionowo,Legionowski,52995.0
+mazowieckie,Lipsko,Lipski,5108.0
+mazowieckie,Lubowidz,Żuromiński,1564.0
+mazowieckie,Łaskarzew,Garwoliński,4547.0
+mazowieckie,Łochów,Węgrowski,6632.0
+mazowieckie,Łomianki,Warszawski Zachodni,18118.0
+mazowieckie,Łosice,Łosicki,6957.0
+mazowieckie,Maków Mazowiecki,Makowski,9106.0
+mazowieckie,Marki,Wołomiński,43164.0
+mazowieckie,Milanówek,Grodziski,16520.0
+mazowieckie,Mińsk Mazowiecki,Miński,40333.0
+mazowieckie,Mława,Mławski,30869.0
+mazowieckie,Mogielnica,Grójecki,2180.0
+mazowieckie,Mordy,Siedlecki,1612.0
+mazowieckie,Mrozy,Miński,3584.0
+mazowieckie,Mszczonów,Żyrardowski,6182.0
+mazowieckie,Myszyniec,Ostrołęcki,3254.0
+mazowieckie,Nasielsk,Nowodworski,7431.0
+mazowieckie,Nowe Miasto,Płoński,1530.0
+mazowieckie,Nowe Miasto nad Pilicą,Grójecki,3602.0
+mazowieckie,Nowy Dwór Mazowiecki,Nowodworski,28586.0
+mazowieckie,Ostrołęka,Ostrołęka,49275.0
+mazowieckie,Ostrów Mazowiecka,Ostrowski,21834.0
+mazowieckie,Otwock,Otwocki,44333.0
+mazowieckie,Ożarów Mazowiecki,Warszawski Zachodni,14719.0
+mazowieckie,Piaseczno,Piaseczyński,51979.0
+mazowieckie,Piastów,Pruszkowski,23140.0
+mazowieckie,Pilawa,Garwoliński,4432.0
+mazowieckie,Pionki,Radomski,16564.0
+mazowieckie,Płock,Płock,113660.0
+mazowieckie,Płońsk,Płoński,21733.0
+mazowieckie,Podkowa Leśna,Grodziski,3859.0
+mazowieckie,Pruszków,Pruszkowski,65333.0
+mazowieckie,Przasnysz,Przasnyski,16544.0
+mazowieckie,Przysucha,Przysuski,5476.0
+mazowieckie,Pułtusk,Pułtuski,19270.0
+mazowieckie,Raciąż,Płoński,4069.0
+mazowieckie,Radom,Radom,199904.0
+mazowieckie,Radzymin,Wołomiński,14444.0
+mazowieckie,Różan,Makowski,2659.0
+mazowieckie,Sanniki,Gostyniński,1776.0
+mazowieckie,Serock,Legionowski,5041.0
+mazowieckie,Siedlce,Siedlce,76005.0
+mazowieckie,Sierpc,Sierpecki,17199.0
+mazowieckie,Skaryszew,Radomski,4383.0
+mazowieckie,Sochaczew,Sochaczewski,34139.0
+mazowieckie,Sochocin,Płoński,1946.0
+mazowieckie,Sokołów Podlaski,Sokołowski,18502.0
+mazowieckie,Solec nad Wisłą,Lipski,900.0
+mazowieckie,Sulejówek,Miński,21253.0
+mazowieckie,Szydłowiec,Szydłowiecki,10809.0
+mazowieckie,Tarczyn,Piaseczyński,4269.0
+mazowieckie,Tłuszcz,Wołomiński,8002.0
+mazowieckie,Warka,Grójecki,11991.0
+mazowieckie,Warszawa,Warszawa,1863056.0
+mazowieckie,Węgrów,Węgrowski,11911.0
+mazowieckie,Wiskitki,Żyrardowski,1411.0
+mazowieckie,Wołomin,Wołomiński,36063.0
+mazowieckie,Wyszków,Wyszkowski,26241.0
+mazowieckie,Wyszogród,Płocki,2454.0
+mazowieckie,Wyśmierzyce,Białobrzeski,874.0
+mazowieckie,Zakroczym,Nowodworski,3159.0
+mazowieckie,Ząbki,Wołomiński,44325.0
+mazowieckie,Zielonka,Wołomiński,18179.0
+mazowieckie,Zwoleń,Zwoleński,7331.0
+mazowieckie,Żelechów,Garwoliński,3808.0
+mazowieckie,Żuromin,Żuromiński,8568.0
+mazowieckie,Żyrardów,Żyrardowski,39069.0
+opolskie,Baborów,Głubczycki,2867.0
+opolskie,Biała,Prudnicki,2303.0
+opolskie,Brzeg,Brzeski,34177.0
+opolskie,Byczyna,Kluczborski,3453.0
+opolskie,Dobrodzień,Oleski,3486.0
+opolskie,Głogówek,Prudnicki,5568.0
+opolskie,Głubczyce,Głubczycki,11958.0
+opolskie,Głuchołazy,Nyski,12965.0
+opolskie,Gogolin,Krapkowicki,6428.0
+opolskie,Gorzów Śląski,Oleski,2430.0
+opolskie,Grodków,Brzeski,8122.0
+opolskie,Kędzierzyn-Koźle,Kędzierzyńsko-Kozielski,56033.0
+opolskie,Kietrz,Głubczycki,5591.0
+opolskie,Kluczbork,Kluczborski,22523.0
+opolskie,Kolonowskie,Strzelecki,3217.0
+opolskie,Korfantów,Nyski,1738.0
+opolskie,Krapkowice,Krapkowicki,15605.0
+opolskie,Leśnica,Strzelecki,2589.0
+opolskie,Lewin Brzeski,Brzeski,5635.0
+opolskie,Namysłów,Namysłowski,16994.0
+opolskie,Niemodlin,Opolski,5985.0
+opolskie,Nysa,Nyski,41692.0
+opolskie,Olesno,Oleski,9127.0
+opolskie,Opole,Opole,126775.0
+opolskie,Otmuchów,Nyski,6289.0
+opolskie,Ozimek,Opolski,8135.0
+opolskie,Paczków,Nyski,6829.0
+opolskie,Praszka,Oleski,7235.0
+opolskie,Prószków,Opolski,2561.0
+opolskie,Prudnik,Prudnicki,19510.0
+opolskie,Strzelce Opolskie,Strzelecki,17349.0
+opolskie,Tułowice,Opolski,3731.0
+opolskie,Ujazd,Strzelecki,1784.0
+opolskie,Wołczyn,Kluczborski,5479.0
+opolskie,Zawadzkie,Strzelecki,6599.0
+opolskie,Zdzieszowice,Krapkowicki,10333.0
+podkarpackie,Baranów Sandomierski,Tarnobrzeski,1410.0
+podkarpackie,Błażowa,Rzeszowski,2117.0
+podkarpackie,Boguchwała,Rzeszowski,6231.0
+podkarpackie,Brzostek,Dębicki,2724.0
+podkarpackie,Brzozów,Brzozowski,7289.0
+podkarpackie,Cieszanów,Lubaczowski,1862.0
+podkarpackie,Dębica,Dębicki,43698.0
+podkarpackie,Dubiecko,Przemyski,834.0
+podkarpackie,Dukla,Krośnieński,2017.0
+podkarpackie,Dynów,Rzeszowski,6051.0
+podkarpackie,Głogów Małopolski,Rzeszowski,10333.0
+podkarpackie,Iwonicz-Zdrój,Krośnieński,1592.0
+podkarpackie,Jarosław,Jarosławski,35945.0
+podkarpackie,Jasło,Jasielski,33463.0
+podkarpackie,Jedlicze,Krośnieński,5561.0
+podkarpackie,Kańczuga,Przeworski,2963.0
+podkarpackie,Kolbuszowa,Kolbuszowski,8640.0
+podkarpackie,Kołaczyce,Jasielski,1382.0
+podkarpackie,Krosno,Krosno,44687.0
+podkarpackie,Lesko,Leski,5215.0
+podkarpackie,Leżajsk,Leżajski,13019.0
+podkarpackie,Lubaczów,Lubaczowski,11515.0
+podkarpackie,Łańcut,Łańcucki,17691.0
+podkarpackie,Mielec,Mielecki,57801.0
+podkarpackie,Narol,Lubaczowski,2019.0
+podkarpackie,Nisko,Niżański,14759.0
+podkarpackie,Nowa Dęba,Tarnobrzeski,10532.0
+podkarpackie,Nowa Sarzyna,Leżajski,5578.0
+podkarpackie,Oleszyce,Lubaczowski,2863.0
+podkarpackie,Pilzno,Dębicki,4957.0
+podkarpackie,Pruchnik,Jarosławski,3623.0
+podkarpackie,Przecław,Mielecki,1804.0
+podkarpackie,Przemyśl,Przemyśl,57568.0
+podkarpackie,Przeworsk,Przeworski,14796.0
+podkarpackie,Radomyśl Wielki,Mielecki,3349.0
+podkarpackie,Radymno,Jarosławski,5066.0
+podkarpackie,Ropczyce,Ropczycko-Sędziszowski,15846.0
+podkarpackie,Rudnik nad Sanem,Niżański,6513.0
+podkarpackie,Rymanów,Krośnieński,3576.0
+podkarpackie,Rzeszów,Rzeszów,196374.0
+podkarpackie,Sanok,Sanocki,35178.0
+podkarpackie,Sędziszów Małopolski,Ropczycko-Sędziszowski,12368.0
+podkarpackie,Sieniawa,Przeworski,2007.0
+podkarpackie,Sokołów Małopolski,Rzeszowski,4296.0
+podkarpackie,Stalowa Wola,Stalowowolski,56819.0
+podkarpackie,Strzyżów,Strzyżowski,8527.0
+podkarpackie,Tarnobrzeg,Tarnobrzeg,44529.0
+podkarpackie,Tyczyn,Rzeszowski,4415.0
+podkarpackie,Ulanów,Niżański,1392.0
+podkarpackie,Ustrzyki Dolne,Bieszczadzki,8604.0
+podkarpackie,Zagórz,Sanocki,4986.0
+podkarpackie,Zaklików,Stalowowolski,2825.0
+podlaskie,Augustów,Augustowski,29341.0
+podlaskie,Białystok,Białystok,293413.0
+podlaskie,Bielsk Podlaski,Bielski,24417.0
+podlaskie,Brańsk,Bielski,3557.0
+podlaskie,Choroszcz,Białostocki,5991.0
+podlaskie,Ciechanowiec,Wysokomazowiecki,4447.0
+podlaskie,Czarna Białostocka,Białostocki,8814.0
+podlaskie,Dąbrowa Białostocka,Sokólski,5195.0
+podlaskie,Drohiczyn,Siemiatycki,1818.0
+podlaskie,Goniądz,Moniecki,1748.0
+podlaskie,Grajewo,Grajewski,21303.0
+podlaskie,Hajnówka,Hajnowski,19487.0
+podlaskie,Jedwabne,Łomżyński,1698.0
+podlaskie,Kleszczele,Hajnowski,1110.0
+podlaskie,Knyszyn,Moniecki,2659.0
+podlaskie,Kolno,Kolneński,9942.0
+podlaskie,Krynki,Sokólski,2215.0
+podlaskie,Lipsk,Augustowski,2131.0
+podlaskie,Łapy,Białostocki,14709.0
+podlaskie,Łomża,Łomża,60468.0
+podlaskie,Michałowo,Białostocki,2781.0
+podlaskie,Mońki,Moniecki,9631.0
+podlaskie,Nowogród,Łomżyński,2125.0
+podlaskie,Rajgród,Grajewski,1439.0
+podlaskie,Sejny,Sejneński,5024.0
+podlaskie,Siemiatycze,Siemiatycki,13639.0
+podlaskie,Sokółka,Sokólski,17481.0
+podlaskie,Stawiski,Kolneński,2048.0
+podlaskie,Suchowola,Sokólski,2085.0
+podlaskie,Supraśl,Białostocki,4388.0
+podlaskie,Suraż,Białostocki,980.0
+podlaskie,Suwałki,Suwałki,68839.0
+podlaskie,Szczuczyn,Grajewski,3221.0
+podlaskie,Szepietowo,Wysokomazowiecki,2050.0
+podlaskie,Tykocin,Białostocki,1902.0
+podlaskie,Wasilków,Białostocki,12330.0
+podlaskie,Wysokie Mazowieckie,Wysokomazowiecki,9081.0
+podlaskie,Zabłudów,Białostocki,2478.0
+podlaskie,Zambrów,Zambrowski,21188.0
+pomorskie,Brusy,Chojnicki,5130.0
+pomorskie,Bytów,Bytowski,16653.0
+pomorskie,Chojnice,Chojnicki,39158.0
+pomorskie,Czarna Woda,Starogardzki,2722.0
+pomorskie,Czarne,Człuchowski,5683.0
+pomorskie,Czersk,Chojnicki,9956.0
+pomorskie,Człuchów,Człuchowski,13270.0
+pomorskie,Debrzno,Człuchowski,4972.0
+pomorskie,Dzierzgoń,Sztumski,5074.0
+pomorskie,Gdańsk,Gdańsk,486271.0
+pomorskie,Gdynia,Gdynia,244676.0
+pomorskie,Gniew,Tczewski,6235.0
+pomorskie,Hel,Pucki,2909.0
+pomorskie,Jastarnia,Pucki,2656.0
+pomorskie,Kartuzy,Kartuski,14064.0
+pomorskie,Kępice,Słupski,3374.0
+pomorskie,Kościerzyna,Kościerski,23524.0
+pomorskie,Krynica Morska,Nowodworski,1183.0
+pomorskie,Kwidzyn,Kwidzyński,37513.0
+pomorskie,Lębork,Lęborski,34365.0
+pomorskie,Łeba,Lęborski,3172.0
+pomorskie,Malbork,Malborski,37341.0
+pomorskie,Miastko,Bytowski,9626.0
+pomorskie,Nowy Dwór Gdański,Nowodworski,9551.0
+pomorskie,Nowy Staw,Malborski,4090.0
+pomorskie,Pelplin,Tczewski,7399.0
+pomorskie,Prabuty,Kwidzyński,8225.0
+pomorskie,Pruszcz Gdański,Gdański,31791.0
+pomorskie,Puck,Pucki,10787.0
+pomorskie,Reda,Wejherowski,28428.0
+pomorskie,Rumia,Wejherowski,52221.0
+pomorskie,Skarszewy,Starogardzki,6786.0
+pomorskie,Skórcz,Starogardzki,3485.0
+pomorskie,Słupsk,Słupsk,87119.0
+pomorskie,Sopot,Sopot,32743.0
+pomorskie,Starogard Gdański,Starogardzki,45991.0
+pomorskie,Sztum,Sztumski,9417.0
+pomorskie,Tczew,Tczewski,57856.0
+pomorskie,Ustka,Słupski,14161.0
+pomorskie,Wejherowo,Wejherowski,46968.0
+pomorskie,Władysławowo,Pucki,9547.0
+pomorskie,Żukowo,Kartuski,6663.0
+śląskie,Będzin,Będziński,55065.0
+śląskie,Bielsko-Biała,Bielsko-Biała,168106.0
+śląskie,Bieruń,Bieruńsko-Lędziński,19087.0
+śląskie,Blachownia,Częstochowski,9276.0
+śląskie,Bytom,Bytom,151691.0
+śląskie,Chorzów,Chorzów,103229.0
+śląskie,Cieszyn,Cieszyński,33601.0
+śląskie,Czechowice-Dziedzice,Bielski,35121.0
+śląskie,Czeladź,Będziński,30492.0
+śląskie,Czerwionka-Leszczyny,Rybnicki,26860.0
+śląskie,Częstochowa,Częstochowa,210773.0
+śląskie,Dąbrowa Górnicza,Dąbrowa Górnicza,115955.0
+śląskie,Gliwice,Gliwice,172628.0
+śląskie,Imielin,Bieruńsko-Lędziński,9377.0
+śląskie,Jastrzębie-Zdrój,Jastrzębie-Zdrój,83987.0
+śląskie,Jaworzno,Jaworzno,88267.0
+śląskie,Kalety,Tarnogórski,8206.0
+śląskie,Katowice,Katowice,282755.0
+śląskie,Kłobuck,Kłobucki,12457.0
+śląskie,Knurów,Gliwicki,36261.0
+śląskie,Koniecpol,Częstochowski,5507.0
+śląskie,Koziegłowy,Myszkowski,2402.0
+śląskie,Krzanowice,Raciborski,2016.0
+śląskie,Krzepice,Kłobucki,4196.0
+śląskie,Kuźnia Raciborska,Raciborski,4741.0
+śląskie,Lędziny,Bieruńsko-Lędziński,16489.0
+śląskie,Lubliniec,Lubliniecki,23542.0
+śląskie,Łaziska Górne,Mikołowski,21432.0
+śląskie,Łazy,Zawierciański,6545.0
+śląskie,Miasteczko Śląskie,Tarnogórski,7044.0
+śląskie,Mikołów,Mikołowski,41314.0
+śląskie,Mysłowice,Mysłowice,72124.0
+śląskie,Myszków,Myszkowski,30072.0
+śląskie,Ogrodzieniec,Zawierciański,4175.0
+śląskie,Olsztyn,Częstochowski,2499.0
+śląskie,Orzesze,Mikołowski,21687.0
+śląskie,Piekary Śląskie,Piekary Śląskie,52699.0
+śląskie,Pilica,Zawierciański,1775.0
+śląskie,Poręba,Zawierciański,8250.0
+śląskie,Pszczyna,Pszczyński,25407.0
+śląskie,Pszów,Wodzisławski,13218.0
+śląskie,Pyskowice,Gliwicki,17248.0
+śląskie,Racibórz,Raciborski,50743.0
+śląskie,Radlin,Wodzisławski,17067.0
+śląskie,Radzionków,Tarnogórski,16193.0
+śląskie,Ruda Śląska,Ruda Śląska,132766.0
+śląskie,Rybnik,Rybnik,132923.0
+śląskie,Rydułtowy,Wodzisławski,20561.0
+śląskie,Siemianowice Śląskie,Siemianowice Śląskie,64365.0
+śląskie,Siewierz,Będziński,5646.0
+śląskie,Skoczów,Cieszyński,13746.0
+śląskie,Sławków,Będziński,6909.0
+śląskie,Sosnowiec,Sosnowiec,191676.0
+śląskie,Sośnicowice,Gliwicki,1970.0
+śląskie,Strumień,Cieszyński,3590.0
+śląskie,Szczekociny,Zawierciański,3412.0
+śląskie,Szczyrk,Bielski,5454.0
+śląskie,Świętochłowice,Świętochłowice,46112.0
+śląskie,Tarnowskie Góry,Tarnogórski,61343.0
+śląskie,Toszek,Gliwicki,3526.0
+śląskie,Tychy,Tychy,124139.0
+śląskie,Ustroń,Cieszyński,16035.0
+śląskie,Wilamowice,Bielski,3165.0
+śląskie,Wisła,Cieszyński,10798.0
+śląskie,Wodzisław Śląski,Wodzisławski,45571.0
+śląskie,Wojkowice,Będziński,8574.0
+śląskie,Woźniki,Lubliniecki,4184.0
+śląskie,Zabrze,Zabrze,156935.0
+śląskie,Zawiercie,Zawierciański,47220.0
+śląskie,Żarki,Myszkowski,4404.0
+śląskie,Żory,Żory,61839.0
+śląskie,Żywiec,Żywiecki,30043.0
+świętokrzyskie,Bodzentyn,Kielecki,2135.0
+świętokrzyskie,Busko-Zdrój,Buski,14787.0
+świętokrzyskie,Chęciny,Kielecki,4343.0
+świętokrzyskie,Chmielnik,Kielecki,3521.0
+świętokrzyskie,Ćmielów,Ostrowiecki,2852.0
+świętokrzyskie,Daleszyce,Kielecki,2818.0
+świętokrzyskie,Działoszyce,Pińczowski,868.0
+świętokrzyskie,Iwaniska,Opatowski,1249.0
+świętokrzyskie,Jędrzejów,Jędrzejowski,14424.0
+świętokrzyskie,Kazimierza Wielka,Kazimierski,5145.0
+świętokrzyskie,Kielce,Kielce,185478.0
+świętokrzyskie,Klimontów,Sandomierski,1769.0
+świętokrzyskie,Końskie,Konecki,17973.0
+świętokrzyskie,Koprzywnica,Sandomierski,2389.0
+świętokrzyskie,Kunów,Ostrowiecki,2764.0
+świętokrzyskie,Łagów,Kielecki,1551.0
+świętokrzyskie,Małogoszcz,Jędrzejowski,3463.0
+świętokrzyskie,Morawica,Kielecki,1749.0
+świętokrzyskie,Nowa Słupia,Kielecki,1339.0
+świętokrzyskie,Nowy Korczyn,Buski,906.0
+świętokrzyskie,Oleśnica,Staszowski,1742.0
+świętokrzyskie,Opatowiec,Kazimierski,313.0
+świętokrzyskie,Opatów,Opatowski,6087.0
+świętokrzyskie,Osiek,Staszowski,1961.0
+świętokrzyskie,Ostrowiec Świętokrzyski,Ostrowiecki,63932.0
+świętokrzyskie,Ożarów,Opatowski,4348.0
+świętokrzyskie,Pacanów,Buski,1060.0
+świętokrzyskie,Pierzchnica,Kielecki,1251.0
+świętokrzyskie,Pińczów,Pińczowski,9972.0
+świętokrzyskie,Połaniec,Staszowski,7606.0
+świętokrzyskie,Radoszyce,Konecki,2932.0
+świętokrzyskie,Sandomierz,Sandomierski,21944.0
+świętokrzyskie,Sędziszów,Jędrzejowski,6258.0
+świętokrzyskie,Skalbmierz,Kazimierski,1218.0
+świętokrzyskie,Skarżysko-Kamienna,Skarżyski,42458.0
+świętokrzyskie,Starachowice,Starachowicki,45684.0
+świętokrzyskie,Staszów,Staszowski,13987.0
+świętokrzyskie,Stąporków,Konecki,5225.0
+świętokrzyskie,Stopnica,Buski,1178.0
+świętokrzyskie,Suchedniów,Skarżyski,7712.0
+świętokrzyskie,Szydłów,Staszowski,966.0
+świętokrzyskie,Wąchock,Starachowicki,2541.0
+świętokrzyskie,Wiślica,Buski,477.0
+świętokrzyskie,Włoszczowa,Włoszczowski,9697.0
+świętokrzyskie,Wodzisław,Jędrzejowski,981.0
+świętokrzyskie,Zawichost,Sandomierski,1645.0
+warmińsko-mazurskie,Barczewo,Olsztyński,7476.0
+warmińsko-mazurskie,Bartoszyce,Bartoszycki,22020.0
+warmińsko-mazurskie,Biała Piska,Piski,3765.0
+warmińsko-mazurskie,Biskupiec,Olsztyński,10069.0
+warmińsko-mazurskie,Bisztynek,Bartoszycki,2227.0
+warmińsko-mazurskie,Braniewo,Braniewski,16411.0
+warmińsko-mazurskie,Dobre Miasto,Olsztyński,9523.0
+warmińsko-mazurskie,Działdowo,Działdowski,20520.0
+warmińsko-mazurskie,Elbląg,Elbląg,114401.0
+warmińsko-mazurskie,Ełk,Ełcki,60248.0
+warmińsko-mazurskie,Frombork,Braniewski,2126.0
+warmińsko-mazurskie,Giżycko,Giżycki,27978.0
+warmińsko-mazurskie,Gołdap,Gołdapski,13349.0
+warmińsko-mazurskie,Górowo Iławeckie,Bartoszycki,3738.0
+warmińsko-mazurskie,Iława,Iławski,32525.0
+warmińsko-mazurskie,Jeziorany,Olsztyński,3037.0
+warmińsko-mazurskie,Kętrzyn,Kętrzyński,25933.0
+warmińsko-mazurskie,Kisielice,Iławski,2063.0
+warmińsko-mazurskie,Korsze,Kętrzyński,4042.0
+warmińsko-mazurskie,Lidzbark,Działdowski,7403.0
+warmińsko-mazurskie,Lidzbark Warmiński,Lidzbarski,14780.0
+warmińsko-mazurskie,Lubawa,Iławski,10622.0
+warmińsko-mazurskie,Mikołajki,Mrągowski,3477.0
+warmińsko-mazurskie,Miłakowo,Ostródzki,2463.0
+warmińsko-mazurskie,Miłomłyn,Ostródzki,2421.0
+warmińsko-mazurskie,Młynary,Elbląski,1690.0
+warmińsko-mazurskie,Morąg,Ostródzki,13155.0
+warmińsko-mazurskie,Mrągowo,Mrągowski,21046.0
+warmińsko-mazurskie,Nidzica,Nidzicki,12929.0
+warmińsko-mazurskie,Nowe Miasto Lubawskie,Nowomiejski,10366.0
+warmińsko-mazurskie,Olecko,Olecki,15949.0
+warmińsko-mazurskie,Olsztyn,Olsztyn,169251.0
+warmińsko-mazurskie,Olsztynek,Olsztyński,7283.0
+warmińsko-mazurskie,Orneta,Lidzbarski,8207.0
+warmińsko-mazurskie,Orzysz,Piski,5386.0
+warmińsko-mazurskie,Ostróda,Ostródzki,31862.0
+warmińsko-mazurskie,Pasłęk,Elbląski,12000.0
+warmińsko-mazurskie,Pasym,Szczycieński,2397.0
+warmińsko-mazurskie,Pieniężno,Braniewski,2477.0
+warmińsko-mazurskie,Pisz,Piski,18074.0
+warmińsko-mazurskie,Reszel,Kętrzyński,4105.0
+warmińsko-mazurskie,Ruciane-Nida,Piski,4140.0
+warmińsko-mazurskie,Ryn,Giżycki,2733.0
+warmińsko-mazurskie,Sępopol,Bartoszycki,1908.0
+warmińsko-mazurskie,Susz,Iławski,5296.0
+warmińsko-mazurskie,Szczytno,Szczycieński,22299.0
+warmińsko-mazurskie,Tolkmicko,Elbląski,2459.0
+warmińsko-mazurskie,Węgorzewo,Węgorzewski,10806.0
+warmińsko-mazurskie,Wielbark,Szczycieński,2989.0
+warmińsko-mazurskie,Zalewo,Iławski,2066.0
+wielkopolskie,Bojanowo,Rawicki,2840.0
+wielkopolskie,Borek Wielkopolski,Gostyński,2435.0
+wielkopolskie,Budzyń,Chodzieski,4648.0
+wielkopolskie,Buk,Poznański,5667.0
+wielkopolskie,Chocz,Pleszewski,1666.0
+wielkopolskie,Chodzież,Chodzieski,17851.0
+wielkopolskie,Czarnków,Czarnkowsko-Trzcianecki,10218.0
+wielkopolskie,Czempiń,Kościański,5188.0
+wielkopolskie,Czerniejewo,Gnieźnieński,2566.0
+wielkopolskie,Dąbie,Kolski,1748.0
+wielkopolskie,Dobra,Turecki,1341.0
+wielkopolskie,Dobrzyca,Pleszewski,2949.0
+wielkopolskie,Dolsk,Śremski,1561.0
+wielkopolskie,Gniezno,Gnieźnieński,64916.0
+wielkopolskie,Golina,Koniński,4367.0
+wielkopolskie,Gołańcz,Wągrowiecki,3213.0
+wielkopolskie,Gostyń,Gostyński,20121.0
+wielkopolskie,Grabów nad Prosną,Ostrzeszowski,1926.0
+wielkopolskie,Grodzisk Wielkopolski,Grodziski,15163.0
+wielkopolskie,Jaraczewo,Jarociński,1374.0
+wielkopolskie,Jarocin,Jarociński,26570.0
+wielkopolskie,Jastrowie,Złotowski,8401.0
+wielkopolskie,Jutrosin,Rawicki,1888.0
+wielkopolskie,Kaczory,Pilski,2812.0
+wielkopolskie,Kalisz,Kalisz,95021.0
+wielkopolskie,Kępno,Kępiński,13857.0
+wielkopolskie,Kleczew,Koniński,3972.0
+wielkopolskie,Kłecko,Gnieźnieński,2594.0
+wielkopolskie,Kłodawa,Kolski,5985.0
+wielkopolskie,Kobylin,Krotoszyński,3185.0
+wielkopolskie,Koło,Kolski,20064.0
+wielkopolskie,Konin,Konin,69069.0
+wielkopolskie,Kostrzyn,Poznański,9827.0
+wielkopolskie,Kościan,Kościański,23832.0
+wielkopolskie,Koźmin Wielkopolski,Krotoszyński,6231.0
+wielkopolskie,Koźminek,Kaliski,1851.0
+wielkopolskie,Kórnik,Poznański,8223.0
+wielkopolskie,Krajenka,Złotowski,3556.0
+wielkopolskie,Krobia,Gostyński,4426.0
+wielkopolskie,Krotoszyn,Krotoszyński,28503.0
+wielkopolskie,Krzywiń,Kościański,1668.0
+wielkopolskie,Krzyż Wielkopolski,Czarnkowsko-Trzcianecki,5973.0
+wielkopolskie,Książ Wielkopolski,Śremski,2612.0
+wielkopolskie,Leszno,Leszno,61396.0
+wielkopolskie,Luboń,Poznański,32922.0
+wielkopolskie,Lwówek,Nowotomyski,2956.0
+wielkopolskie,Łobżenica,Pilski,2832.0
+wielkopolskie,Margonin,Chodzieski,3006.0
+wielkopolskie,Miejska Górka,Rawicki,3126.0
+wielkopolskie,Międzychód,Międzychodzki,10216.0
+wielkopolskie,Mikstat,Ostrzeszowski,1722.0
+wielkopolskie,Miłosław,Wrzesiński,3464.0
+wielkopolskie,Mosina,Poznański,14536.0
+wielkopolskie,Murowana Goślina,Poznański,10206.0
+wielkopolskie,Nekla,Wrzesiński,3818.0
+wielkopolskie,Nowe Skalmierzyce,Ostrowski,4687.0
+wielkopolskie,Nowy Tomyśl,Nowotomyski,13962.0
+wielkopolskie,Oborniki,Obornicki,17534.0
+wielkopolskie,Obrzycko,Szamotulski,2384.0
+wielkopolskie,Odolanów,Ostrowski,4976.0
+wielkopolskie,Okonek,Złotowski,3680.0
+wielkopolskie,Opalenica,Nowotomyski,9350.0
+wielkopolskie,Opatówek,Kaliski,3540.0
+wielkopolskie,Osieczna,Leszczyński,2431.0
+wielkopolskie,Ostrów Wielkopolski,Ostrowski,70296.0
+wielkopolskie,Ostrzeszów,Ostrzeszowski,13936.0
+wielkopolskie,Piła,Pilski,71226.0
+wielkopolskie,Pleszew,Pleszewski,16755.0
+wielkopolskie,Pniewy,Szamotulski,8188.0
+wielkopolskie,Pobiedziska,Poznański,9794.0
+wielkopolskie,Pogorzela,Gostyński,2025.0
+wielkopolskie,Poniec,Gostyński,2946.0
+wielkopolskie,Poznań,Poznań,545073.0
+wielkopolskie,Przedecz,Kolski,1548.0
+wielkopolskie,Puszczykowo,Poznański,9408.0
+wielkopolskie,Pyzdry,Wrzesiński,2985.0
+wielkopolskie,Rakoniewice,Grodziski,3617.0
+wielkopolskie,Raszków,Ostrowski,2107.0
+wielkopolskie,Rawicz,Rawicki,20080.0
+wielkopolskie,Rogoźno,Obornicki,10940.0
+wielkopolskie,Rychwał,Koniński,2374.0
+wielkopolskie,Rydzyna,Leszczyński,2895.0
+wielkopolskie,Sieraków,Międzychodzki,5890.0
+wielkopolskie,Skoki,Wągrowiecki,4707.0
+wielkopolskie,Słupca,Słupecki,13267.0
+wielkopolskie,Sompolno,Koniński,3417.0
+wielkopolskie,Stawiszyn,Kaliski,1402.0
+wielkopolskie,Stęszew,Poznański,5967.0
+wielkopolskie,Sulmierzyce,Krotoszyński,2736.0
+wielkopolskie,Swarzędz,Poznański,28981.0
+wielkopolskie,Szamocin,Chodzieski,3954.0
+wielkopolskie,Szamotuły,Szamotulski,18569.0
+wielkopolskie,Ślesin,Koniński,3164.0
+wielkopolskie,Śmigiel,Kościański,5587.0
+wielkopolskie,Śrem,Śremski,28560.0
+wielkopolskie,Środa Wielkopolska,Średzki,24358.0
+wielkopolskie,Trzcianka,Czarnkowsko-Trzcianecki,16699.0
+wielkopolskie,Trzemeszno,Gnieźnieński,7462.0
+wielkopolskie,Tuliszków,Turecki,3115.0
+wielkopolskie,Turek,Turecki,25169.0
+wielkopolskie,Ujście,Pilski,3446.0
+wielkopolskie,Wągrowiec,Wągrowiecki,25584.0
+wielkopolskie,Wieleń,Czarnkowsko-Trzcianecki,5811.0
+wielkopolskie,Wielichowo,Grodziski,1696.0
+wielkopolskie,Witkowo,Gnieźnieński,7529.0
+wielkopolskie,Wolsztyn,Wolsztyński,12352.0
+wielkopolskie,Wronki,Szamotulski,10771.0
+wielkopolskie,Września,Wrzesiński,31937.0
+wielkopolskie,Wyrzysk,Pilski,5053.0
+wielkopolskie,Wysoka,Pilski,2569.0
+wielkopolskie,Zagórów,Słupecki,2806.0
+wielkopolskie,Zbąszyń,Nowotomyski,7147.0
+wielkopolskie,Zduny,Krotoszyński,4360.0
+wielkopolskie,Złotów,Złotowski,18525.0
+wielkopolskie,Żerków,Jarociński,2077.0
+zachodniopomorskie,Barlinek,Myśliborski,13262.0
+zachodniopomorskie,Barwice,Szczecinecki,3488.0
+zachodniopomorskie,Białogard,Białogardzki,22908.0
+zachodniopomorskie,Biały Bór,Szczecinecki,2103.0
+zachodniopomorskie,Bobolice,Koszaliński,3802.0
+zachodniopomorskie,Borne Sulinowo,Szczecinecki,4995.0
+zachodniopomorskie,Cedynia,Gryfiński,1470.0
+zachodniopomorskie,Chociwel,Stargardzki,3036.0
+zachodniopomorskie,Chojna,Gryfiński,7344.0
+zachodniopomorskie,Choszczno,Choszczeński,14289.0
+zachodniopomorskie,Czaplinek,Drawski,6824.0
+zachodniopomorskie,Człopa,Wałecki,2204.0
+zachodniopomorskie,Darłowo,Sławieński,12893.0
+zachodniopomorskie,Dębno,Myśliborski,13160.0
+zachodniopomorskie,Dobra,Łobeski,2035.0
+zachodniopomorskie,Dobrzany,Stargardzki,2191.0
+zachodniopomorskie,Drawno,Choszczeński,2174.0
+zachodniopomorskie,Drawsko Pomorskie,Drawski,11424.0
+zachodniopomorskie,Dziwnów,Kamieński,2407.0
+zachodniopomorskie,Golczewo,Kamieński,2532.0
+zachodniopomorskie,Goleniów,Goleniowski,21993.0
+zachodniopomorskie,Gościno,Kołobrzeski,2632.0
+zachodniopomorskie,Gryfice,Gryficki,15728.0
+zachodniopomorskie,Gryfino,Gryfiński,20159.0
+zachodniopomorskie,Ińsko,Stargardzki,1807.0
+zachodniopomorskie,Kalisz Pomorski,Drawski,4085.0
+zachodniopomorskie,Kamień Pomorski,Kamieński,8450.0
+zachodniopomorskie,Karlino,Białogardzki,5564.0
+zachodniopomorskie,Kołobrzeg,Kołobrzeski,44003.0
+zachodniopomorskie,Koszalin,Koszalin,104891.0
+zachodniopomorskie,Lipiany,Pyrzycki,3841.0
+zachodniopomorskie,Łobez,Łobeski,9672.0
+zachodniopomorskie,Maszewo,Goleniowski,3304.0
+zachodniopomorskie,Mielno,Koszaliński,2817.0
+zachodniopomorskie,Mieszkowice,Gryfiński,3404.0
+zachodniopomorskie,Międzyzdroje,Kamieński,4975.0
+zachodniopomorskie,Mirosławiec,Wałecki,3000.0
+zachodniopomorskie,Moryń,Gryfiński,1610.0
+zachodniopomorskie,Myślibórz,Myśliborski,10558.0
+zachodniopomorskie,Nowe Warpno,Policki,1097.0
+zachodniopomorskie,Nowogard,Goleniowski,15965.0
+zachodniopomorskie,Pełczyce,Choszczeński,2451.0
+zachodniopomorskie,Płoty,Gryficki,3788.0
+zachodniopomorskie,Polanów,Koszaliński,2903.0
+zachodniopomorskie,Police,Policki,30365.0
+zachodniopomorskie,Połczyn-Zdrój,Świdwiński,7409.0
+zachodniopomorskie,Pyrzyce,Pyrzycki,12003.0
+zachodniopomorskie,Recz,Choszczeński,2709.0
+zachodniopomorskie,Resko,Łobeski,3998.0
+zachodniopomorskie,Sianów,Koszaliński,6524.0
+zachodniopomorskie,Sławno,Sławieński,12002.0
+zachodniopomorskie,Stargard,Stargardzki,67161.0
+zachodniopomorskie,Stepnica,Goleniowski,2485.0
+zachodniopomorskie,Suchań,Stargardzki,1387.0
+zachodniopomorskie,Szczecin,Szczecin,394482.0
+zachodniopomorskie,Szczecinek,Szczecinecki,38148.0
+zachodniopomorskie,Świdwin,Świdwiński,14831.0
+zachodniopomorskie,Świnoujście,Świnoujście,39834.0
+zachodniopomorskie,Trzcińsko-Zdrój,Gryfiński,2171.0
+zachodniopomorskie,Trzebiatów,Gryficki,9493.0
+zachodniopomorskie,Tuczno,Wałecki,1824.0
+zachodniopomorskie,Tychowo,Białogardzki,2367.0
+zachodniopomorskie,Wałcz,Wałecki,23978.0
+zachodniopomorskie,Węgorzyno,Łobeski,2660.0
+zachodniopomorskie,Wolin,Kamieński,4703.0
+zachodniopomorskie,Złocieniec,Drawski,12302.0
